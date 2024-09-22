@@ -8,14 +8,20 @@ public class Produto
     public double Preco;
     public int Quantidade;
 
-    public Produto(string nome, double preco, int quantidade)
+
+    public Produto() // construtor padrão (aceita a instanciar o objeto sem os parametros)
+    {
+        
+    }
+    
+    public Produto(string nome, double preco, int quantidade) // construtor (só aceita instanciar o objeto com os parametros)
     {
         Nome = nome;
         Preco = preco;
         Quantidade = quantidade;
     }
 
-    public Produto(string nome, double preco)
+    public Produto(string nome, double preco) // (sobrecarga - aceita entrar com nome e preco)
     {
         Nome = nome;
         Preco = preco;

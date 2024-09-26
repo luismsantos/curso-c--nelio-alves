@@ -1,0 +1,15 @@
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio10_List/Exercicio10_List/bin/Debug/net8.0/Exercicio10_List
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio10_List/Exercicio10_List/bin/Debug/net8.0/Exercicio10_List.deps.json
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio10_List/Exercicio10_List/bin/Debug/net8.0/Exercicio10_List.runtimeconfig.json
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio10_List/Exercicio10_List/bin/Debug/net8.0/Exercicio10_List.dll
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio10_List/Exercicio10_List/bin/Debug/net8.0/Exercicio10_List.pdb
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio10_List/Exercicio10_List/obj/Debug/net8.0/Exercicio10_List.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio10_List/Exercicio10_List/obj/Debug/net8.0/Exercicio10_List.AssemblyInfoInputs.cache
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio10_List/Exercicio10_List/obj/Debug/net8.0/Exercicio10_List.AssemblyInfo.cs
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio10_List/Exercicio10_List/obj/Debug/net8.0/Exercicio10_List.csproj.CoreCompileInputs.cache
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio10_List/Exercicio10_List/obj/Debug/net8.0/Exercicio10_List.sourcelink.json
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio10_List/Exercicio10_List/obj/Debug/net8.0/Exercicio10_List.dll
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio10_List/Exercicio10_List/obj/Debug/net8.0/refint/Exercicio10_List.dll
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio10_List/Exercicio10_List/obj/Debug/net8.0/Exercicio10_List.pdb
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio10_List/Exercicio10_List/obj/Debug/net8.0/Exercicio10_List.genruntimeconfig.cache
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio10_List/Exercicio10_List/obj/Debug/net8.0/ref/Exercicio10_List.dll

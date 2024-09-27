@@ -1,0 +1,15 @@
+/home/luis/Documents/curso-c--nelio-alves/projetos/Matriz/Matriz/bin/Debug/net8.0/Matriz
+/home/luis/Documents/curso-c--nelio-alves/projetos/Matriz/Matriz/bin/Debug/net8.0/Matriz.deps.json
+/home/luis/Documents/curso-c--nelio-alves/projetos/Matriz/Matriz/bin/Debug/net8.0/Matriz.runtimeconfig.json
+/home/luis/Documents/curso-c--nelio-alves/projetos/Matriz/Matriz/bin/Debug/net8.0/Matriz.dll
+/home/luis/Documents/curso-c--nelio-alves/projetos/Matriz/Matriz/bin/Debug/net8.0/Matriz.pdb
+/home/luis/Documents/curso-c--nelio-alves/projetos/Matriz/Matriz/obj/Debug/net8.0/Matriz.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/Documents/curso-c--nelio-alves/projetos/Matriz/Matriz/obj/Debug/net8.0/Matriz.AssemblyInfoInputs.cache
+/home/luis/Documents/curso-c--nelio-alves/projetos/Matriz/Matriz/obj/Debug/net8.0/Matriz.AssemblyInfo.cs
+/home/luis/Documents/curso-c--nelio-alves/projetos/Matriz/Matriz/obj/Debug/net8.0/Matriz.csproj.CoreCompileInputs.cache
+/home/luis/Documents/curso-c--nelio-alves/projetos/Matriz/Matriz/obj/Debug/net8.0/Matriz.sourcelink.json
+/home/luis/Documents/curso-c--nelio-alves/projetos/Matriz/Matriz/obj/Debug/net8.0/Matriz.dll
+/home/luis/Documents/curso-c--nelio-alves/projetos/Matriz/Matriz/obj/Debug/net8.0/refint/Matriz.dll
+/home/luis/Documents/curso-c--nelio-alves/projetos/Matriz/Matriz/obj/Debug/net8.0/Matriz.pdb
+/home/luis/Documents/curso-c--nelio-alves/projetos/Matriz/Matriz/obj/Debug/net8.0/Matriz.genruntimeconfig.cache
+/home/luis/Documents/curso-c--nelio-alves/projetos/Matriz/Matriz/obj/Debug/net8.0/ref/Matriz.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exercicio11_Matriz01/1.0.0": {
+        "runtime": {
+          "Exercicio11_Matriz01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio11_Matriz01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

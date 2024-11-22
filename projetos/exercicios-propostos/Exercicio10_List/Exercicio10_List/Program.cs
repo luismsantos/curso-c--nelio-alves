@@ -48,5 +48,3 @@ foreach (Funcionario mostrar in lista)
     Console.WriteLine(mostrar);    
 }
 
-
-

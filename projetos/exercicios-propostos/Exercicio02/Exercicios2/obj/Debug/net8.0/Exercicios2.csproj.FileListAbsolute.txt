@@ -1,0 +1,15 @@
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicios2/Exercicios2/bin/Debug/net8.0/Exercicios2
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicios2/Exercicios2/bin/Debug/net8.0/Exercicios2.deps.json
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicios2/Exercicios2/bin/Debug/net8.0/Exercicios2.runtimeconfig.json
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicios2/Exercicios2/bin/Debug/net8.0/Exercicios2.dll
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicios2/Exercicios2/bin/Debug/net8.0/Exercicios2.pdb
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicios2/Exercicios2/obj/Debug/net8.0/Exercicios2.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicios2/Exercicios2/obj/Debug/net8.0/Exercicios2.AssemblyInfoInputs.cache
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicios2/Exercicios2/obj/Debug/net8.0/Exercicios2.AssemblyInfo.cs
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicios2/Exercicios2/obj/Debug/net8.0/Exercicios2.csproj.CoreCompileInputs.cache
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicios2/Exercicios2/obj/Debug/net8.0/Exercicios2.sourcelink.json
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicios2/Exercicios2/obj/Debug/net8.0/Exercicios2.dll
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicios2/Exercicios2/obj/Debug/net8.0/refint/Exercicios2.dll
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicios2/Exercicios2/obj/Debug/net8.0/Exercicios2.pdb
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicios2/Exercicios2/obj/Debug/net8.0/Exercicios2.genruntimeconfig.cache
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicios2/Exercicios2/obj/Debug/net8.0/ref/Exercicios2.dll

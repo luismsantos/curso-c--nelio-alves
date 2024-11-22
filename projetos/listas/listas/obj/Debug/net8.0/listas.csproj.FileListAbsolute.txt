@@ -1,0 +1,15 @@
+/home/luis/Documents/curso-c--nelio-alves/projetos/listas/listas/bin/Debug/net8.0/listas
+/home/luis/Documents/curso-c--nelio-alves/projetos/listas/listas/bin/Debug/net8.0/listas.deps.json
+/home/luis/Documents/curso-c--nelio-alves/projetos/listas/listas/bin/Debug/net8.0/listas.runtimeconfig.json
+/home/luis/Documents/curso-c--nelio-alves/projetos/listas/listas/bin/Debug/net8.0/listas.dll
+/home/luis/Documents/curso-c--nelio-alves/projetos/listas/listas/bin/Debug/net8.0/listas.pdb
+/home/luis/Documents/curso-c--nelio-alves/projetos/listas/listas/obj/Debug/net8.0/listas.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/Documents/curso-c--nelio-alves/projetos/listas/listas/obj/Debug/net8.0/listas.AssemblyInfoInputs.cache
+/home/luis/Documents/curso-c--nelio-alves/projetos/listas/listas/obj/Debug/net8.0/listas.AssemblyInfo.cs
+/home/luis/Documents/curso-c--nelio-alves/projetos/listas/listas/obj/Debug/net8.0/listas.csproj.CoreCompileInputs.cache
+/home/luis/Documents/curso-c--nelio-alves/projetos/listas/listas/obj/Debug/net8.0/listas.sourcelink.json
+/home/luis/Documents/curso-c--nelio-alves/projetos/listas/listas/obj/Debug/net8.0/listas.dll
+/home/luis/Documents/curso-c--nelio-alves/projetos/listas/listas/obj/Debug/net8.0/refint/listas.dll
+/home/luis/Documents/curso-c--nelio-alves/projetos/listas/listas/obj/Debug/net8.0/listas.pdb
+/home/luis/Documents/curso-c--nelio-alves/projetos/listas/listas/obj/Debug/net8.0/listas.genruntimeconfig.cache
+/home/luis/Documents/curso-c--nelio-alves/projetos/listas/listas/obj/Debug/net8.0/ref/listas.dll

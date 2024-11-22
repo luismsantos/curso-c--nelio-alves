@@ -1,0 +1,15 @@
+/home/luis/Documents/curso-c--nelio-alves/projetos/Vetores/Vetores/bin/Debug/net8.0/Vetores
+/home/luis/Documents/curso-c--nelio-alves/projetos/Vetores/Vetores/bin/Debug/net8.0/Vetores.deps.json
+/home/luis/Documents/curso-c--nelio-alves/projetos/Vetores/Vetores/bin/Debug/net8.0/Vetores.runtimeconfig.json
+/home/luis/Documents/curso-c--nelio-alves/projetos/Vetores/Vetores/bin/Debug/net8.0/Vetores.dll
+/home/luis/Documents/curso-c--nelio-alves/projetos/Vetores/Vetores/bin/Debug/net8.0/Vetores.pdb
+/home/luis/Documents/curso-c--nelio-alves/projetos/Vetores/Vetores/obj/Debug/net8.0/Vetores.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/Documents/curso-c--nelio-alves/projetos/Vetores/Vetores/obj/Debug/net8.0/Vetores.AssemblyInfoInputs.cache
+/home/luis/Documents/curso-c--nelio-alves/projetos/Vetores/Vetores/obj/Debug/net8.0/Vetores.AssemblyInfo.cs
+/home/luis/Documents/curso-c--nelio-alves/projetos/Vetores/Vetores/obj/Debug/net8.0/Vetores.csproj.CoreCompileInputs.cache
+/home/luis/Documents/curso-c--nelio-alves/projetos/Vetores/Vetores/obj/Debug/net8.0/Vetores.sourcelink.json
+/home/luis/Documents/curso-c--nelio-alves/projetos/Vetores/Vetores/obj/Debug/net8.0/Vetores.dll
+/home/luis/Documents/curso-c--nelio-alves/projetos/Vetores/Vetores/obj/Debug/net8.0/refint/Vetores.dll
+/home/luis/Documents/curso-c--nelio-alves/projetos/Vetores/Vetores/obj/Debug/net8.0/Vetores.pdb
+/home/luis/Documents/curso-c--nelio-alves/projetos/Vetores/Vetores/obj/Debug/net8.0/Vetores.genruntimeconfig.cache
+/home/luis/Documents/curso-c--nelio-alves/projetos/Vetores/Vetores/obj/Debug/net8.0/ref/Vetores.dll

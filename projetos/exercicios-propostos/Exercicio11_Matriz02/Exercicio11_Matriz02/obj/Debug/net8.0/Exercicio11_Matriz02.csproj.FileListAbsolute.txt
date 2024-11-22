@@ -1,0 +1,15 @@
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio11_Matriz02/Exercicio11_Matriz02/bin/Debug/net8.0/Exercicio11_Matriz02
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio11_Matriz02/Exercicio11_Matriz02/bin/Debug/net8.0/Exercicio11_Matriz02.deps.json
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio11_Matriz02/Exercicio11_Matriz02/bin/Debug/net8.0/Exercicio11_Matriz02.runtimeconfig.json
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio11_Matriz02/Exercicio11_Matriz02/bin/Debug/net8.0/Exercicio11_Matriz02.dll
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio11_Matriz02/Exercicio11_Matriz02/bin/Debug/net8.0/Exercicio11_Matriz02.pdb
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio11_Matriz02/Exercicio11_Matriz02/obj/Debug/net8.0/Exercicio11_Matriz02.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio11_Matriz02/Exercicio11_Matriz02/obj/Debug/net8.0/Exercicio11_Matriz02.AssemblyInfoInputs.cache
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio11_Matriz02/Exercicio11_Matriz02/obj/Debug/net8.0/Exercicio11_Matriz02.AssemblyInfo.cs
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio11_Matriz02/Exercicio11_Matriz02/obj/Debug/net8.0/Exercicio11_Matriz02.csproj.CoreCompileInputs.cache
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio11_Matriz02/Exercicio11_Matriz02/obj/Debug/net8.0/Exercicio11_Matriz02.sourcelink.json
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio11_Matriz02/Exercicio11_Matriz02/obj/Debug/net8.0/Exercicio11_Matriz02.dll
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio11_Matriz02/Exercicio11_Matriz02/obj/Debug/net8.0/refint/Exercicio11_Matriz02.dll
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio11_Matriz02/Exercicio11_Matriz02/obj/Debug/net8.0/Exercicio11_Matriz02.pdb
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio11_Matriz02/Exercicio11_Matriz02/obj/Debug/net8.0/Exercicio11_Matriz02.genruntimeconfig.cache
+/home/luis/Documents/curso-c--nelio-alves/projetos/exercicios-propostos/Exercicio11_Matriz02/Exercicio11_Matriz02/obj/Debug/net8.0/ref/Exercicio11_Matriz02.dll

@@ -1,0 +1,15 @@
+/home/luis/Documents/curso-c--nelio-alves/projetos/Enumerações/Enumerações/bin/Debug/net8.0/Enumerações
+/home/luis/Documents/curso-c--nelio-alves/projetos/Enumerações/Enumerações/bin/Debug/net8.0/Enumerações.deps.json
+/home/luis/Documents/curso-c--nelio-alves/projetos/Enumerações/Enumerações/bin/Debug/net8.0/Enumerações.runtimeconfig.json
+/home/luis/Documents/curso-c--nelio-alves/projetos/Enumerações/Enumerações/bin/Debug/net8.0/Enumerações.dll
+/home/luis/Documents/curso-c--nelio-alves/projetos/Enumerações/Enumerações/bin/Debug/net8.0/Enumerações.pdb
+/home/luis/Documents/curso-c--nelio-alves/projetos/Enumerações/Enumerações/obj/Debug/net8.0/Enumerações.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/Documents/curso-c--nelio-alves/projetos/Enumerações/Enumerações/obj/Debug/net8.0/Enumerações.AssemblyInfoInputs.cache
+/home/luis/Documents/curso-c--nelio-alves/projetos/Enumerações/Enumerações/obj/Debug/net8.0/Enumerações.AssemblyInfo.cs
+/home/luis/Documents/curso-c--nelio-alves/projetos/Enumerações/Enumerações/obj/Debug/net8.0/Enumerações.csproj.CoreCompileInputs.cache
+/home/luis/Documents/curso-c--nelio-alves/projetos/Enumerações/Enumerações/obj/Debug/net8.0/Enumerações.sourcelink.json
+/home/luis/Documents/curso-c--nelio-alves/projetos/Enumerações/Enumerações/obj/Debug/net8.0/Enumerações.dll
+/home/luis/Documents/curso-c--nelio-alves/projetos/Enumerações/Enumerações/obj/Debug/net8.0/refint/Enumerações.dll
+/home/luis/Documents/curso-c--nelio-alves/projetos/Enumerações/Enumerações/obj/Debug/net8.0/Enumerações.pdb
+/home/luis/Documents/curso-c--nelio-alves/projetos/Enumerações/Enumerações/obj/Debug/net8.0/Enumerações.genruntimeconfig.cache
+/home/luis/Documents/curso-c--nelio-alves/projetos/Enumerações/Enumerações/obj/Debug/net8.0/ref/Enumerações.dll
